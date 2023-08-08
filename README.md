@@ -25,7 +25,7 @@ I needed a simple way to run some python scripts on my Raspbery Pi to collect ho
 * * * * * ~/script-engine/#setup/minute.sh
 */30 * * * * ~/script-engine/#setup/half-hour.sh
 0 * * * * ~/script-engine/#setup/hour.sh
-0 0 * * * ~/script-engine/#setup/day.sh
+50 23 * * * ~/script-engine/#setup/day.sh
 ```
 
 ### Usage

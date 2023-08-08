@@ -1,2 +1,2 @@
 #!/bin/sh
-for f in ~/script-engine/day/*.py; do python "$f"; done
+for f in $(find ~/script-engine/day/ -name '*.py'); do python3 "$f"; done
