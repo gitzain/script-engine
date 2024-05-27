@@ -1,5 +1,9 @@
 # script-engine
-Run python scripts automatically every minute, half hour, hour or day on linux.
+Simplify scheduling Python scripts on Linux.  Just drop your Python script in the designated folder for your desired interval (minute, half-hour, hour, or day) and script-engine takes care of the rest.
+
+Features:
+
+Effortless scheduling: No complex configuration or cron jobs needed.
 
 ## Table of content
 
