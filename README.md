@@ -43,7 +43,7 @@ Write your python script and simply drop it into the appropriate folder. For exa
 5. Submit a pull request :D
 
 ## History
-v0.1: Beta
+31/05/2020: v0.1 Beta
 
 ## Credits
 - Template for this README is <a href="https://github.com/gitzain/template-README">Template-README</a> created by <a href="https://iamzain.com">Zain Khan</a>
